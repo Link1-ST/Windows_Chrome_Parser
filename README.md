@@ -1,7 +1,8 @@
 # Windows_Chrome_Parser
 ## Desciption
 ```
-This is an Autopsy module for parsing some Windows Chrome Artifacts.  It parses history (i.e. urls and downloads), and top sites and imports them to the extract view section of Autopsy.
+This is an Autopsy module for parsing some Windows Chrome Artifacts.  
+It parses history (i.e. urls and downloads), and top sites and imports them to the extract view section of Autopsy.
 ```
 
 ## Instructions
